@@ -1,3 +1,5 @@
+**This Repository includes the dashboards I created while I was doing virtual Internship with PwC Switzerland through The Forage.**
+
 Dashboard - 1 - Customer Trend Analysis
 
 ![PwC Trend Analysis Dashboard](https://github.com/SanjaysAnalysis/PwC_Power_BI/assets/150272382/d9bf7742-58a3-4c33-8ad3-e3210b886f0d)
