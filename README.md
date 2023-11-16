@@ -8,11 +8,12 @@ Here I've defined few Important KPS's and depicted those in an Interactive Dashb
 
 KPI's Include - 
 
-- Overall customer satisfaction
-- Overall calls answered/abandoned
-- Calls by time
-- Average speed of answer
-- Agent’s performance quadrant
+- Overall customer satisfaction.
+- Overall calls answered.
+- Overall calls resolved.
+- Calls by time/month.
+- Average speed of answer.
+- Individual Agent’s contribution quadrant.
 
 #### Dashboard - 1 - Call Center Trend Analysis
 
@@ -22,10 +23,10 @@ KPI's Include -
 
 KPI's to understand why Customers are leaving include - 
 
-- Customers who left within the last month
-- Services each customer has signed up for: phone, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-- Customer account information: how long as a customer, subscription length (contract) , payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
-- Demographic info about customers – gender, age range, and if they have partners and dependents
+- Customers who left within the last month.
+- Services each customer has signed up for: phone, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
+- Customer account information: how long as a customer, subscription length (contract) , payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical.
+- Demographic info about customers – gender, age range, and if they have partners and dependents.
 
 #### Dashboard - 2(a) - Customer Retention Dashboard
 
@@ -37,7 +38,7 @@ KPI's to understand why Customers are leaving include -
 
 # Diversity & Inclusion
 
-To understand the Gender Diversity & Inclusion, I've defined some important KPI's -
+To understand the Gender Diversity & Inclusion, I've defined some important measures & KPI's -
 
 - number of men
 - number of women
