@@ -1,4 +1,6 @@
-**This Repository includes the dashboards I created while I was doing virtual Internship with PwC Switzerland through The Forage.**
+# This Repository includes the dashboards I created while I was doing virtual Internship with PwC Switzerland through The Forage.
+
+
 
 Dashboard - 1 - Customer Trend Analysis
 
