@@ -13,3 +13,7 @@ Dashboard - 2(b) - Customer Risk Analysis
 Dashboard - 3(a) - Employee Diversity & Inclusion Dashboard
 
 ![PwC Diversity   Inclusion Dashboard 1](https://github.com/SanjaysAnalysis/PwC_Power_BI/assets/150272382/79f19526-fd13-482a-8a3c-0abfdf04d9c1)
+
+Dashboard - 3(b) - Employee Diversity & Inclusion Dashboard
+
+![PwC Diversity   Inclusion Dashboard 2](https://github.com/SanjaysAnalysis/PwC_Power_BI/assets/150272382/ece59eed-2350-4650-b4b2-b6d79b594f77)
