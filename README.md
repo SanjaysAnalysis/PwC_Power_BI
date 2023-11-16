@@ -20,7 +20,7 @@ KPI's Include -
 
 # Cutomer Churn
 
-KPI's to understand the Customer leaving us include - 
+KPI's to understand why Customers are leaving include - 
 
 - Customers who left within the last month
 - Services each customer has signed up for: phone, internet, online security, online backup, device protection, tech support, and streaming TV and movies
