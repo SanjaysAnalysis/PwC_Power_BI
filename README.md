@@ -9,3 +9,7 @@ Dashboard - 2(a) - Customer Retention Dashboard
 Dashboard - 2(b) - Customer Risk Analysis
 
 ![PwC Customer Retention Dashboard 2](https://github.com/SanjaysAnalysis/PwC_Power_BI/assets/150272382/499cb56f-bf26-49bc-bdc1-be6a610f3703)
+
+Dashboard - 3(a) - Employee Diversity & Inclusion Dashboard
+
+![PwC Diversity   Inclusion Dashboard 1](https://github.com/SanjaysAnalysis/PwC_Power_BI/assets/150272382/79f19526-fd13-482a-8a3c-0abfdf04d9c1)
