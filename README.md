@@ -7,3 +7,5 @@ Dashboard - 2(a) - Customer Retention Dashboard
 ![PwC Customer Retention Dashboard 1](https://github.com/SanjaysAnalysis/PwC_Power_BI/assets/150272382/eedbde1e-76aa-48cb-bcaf-87429525bd30)
 
 Dashboard - 2(b) - Customer Risk Analysis
+
+![PwC Customer Retention Dashboard 2](https://github.com/SanjaysAnalysis/PwC_Power_BI/assets/150272382/499cb56f-bf26-49bc-bdc1-be6a610f3703)
